@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[CodyLHall]]></title>
         <description><![CDATA[CodyLHall]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/codylhall/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 22:35:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 22:54:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/codylhall/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c9567b9-960e-4cab-a9cb-27f036f1a30a.png">]]></description>
-            <link>undefined45394333-7d86-4f7b-9c26-abe196793613/index.html</link>
+            <link>https://thegrid.ai/codylhall/45394333-7d86-4f7b-9c26-abe196793613/index.html</link>
             <guid isPermaLink="false">45394333-7d86-4f7b-9c26-abe196793613</guid>
-            <pubDate>Thu, 25 Feb 2016 22:33:14 GMT</pubDate>
+            <pubDate>Thu, 25 Feb 2016 22:54:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
