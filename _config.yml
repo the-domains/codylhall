@@ -1,28 +1,40 @@
-name: CodyLHall
-favicon: null
-layout_spectrum: 0.3757009475957602
-typography_spectrum: 0.18541225651279092
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.09339609113521874
-  lightness: 0.4536829637363553
-  saturation: 0.016818382078781724
-  rhythmicContrast: 0.39039426296949387
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.5537057
+  brandStrength: 0.9683136
+  lightness: 0.1820623
+  brandColors:
+    - '#010E39'
+    - '#FAF3D7'
+    - '#65777F'
+    - '#5C2630'
+    - '#024B92'
+  rhythmicContrast: 0.3903943
+typography_spectrum: 0.06390974
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: CodyLHall
